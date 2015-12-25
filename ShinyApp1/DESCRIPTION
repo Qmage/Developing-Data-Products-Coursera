@@ -1,0 +1,8 @@
+Package: mypackage
+Title: Calculating BMI and BMR with Shiny
+Author: Clement Chin
+AuthorUrl: http://www.rstudio.com/
+License: GPL-3
+DisplayMode: Showcase
+Tags: getting-started
+Type: Shiny
